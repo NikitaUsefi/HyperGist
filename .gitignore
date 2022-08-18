@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/HyperGistCommon/bin/Debug/netcoreapp3.1
+/HyperGistCommon/obj
+/HyperGistCommonTest/bin/Debug/netcoreapp3.1
+/HyperGistCommonTest/obj
+/HyperGistDomain/bin/Debug/netcoreapp3.1
+/HyperGistDomain/obj
+/HyperGistPersistence/bin/Debug/netcoreapp3.1
+/HyperGistPersistence/obj
+/HyperGistPersistenceTest/bin/Debug/netcoreapp3.1
+/HyperGistPersistenceTest/obj
+/HyperGistService/bin/Debug/netcoreapp3.1
+/HyperGistService/obj
+/HyperGistServiceTest/bin/Debug/netcoreapp3.1
+/HyperGistServiceTest/obj
